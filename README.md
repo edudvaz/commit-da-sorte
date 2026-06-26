@@ -53,12 +53,13 @@ git clone https://github.com/SEU_USUARIO/commit-da-sorte.git
 
 Não é necessário instalar bibliotecas ou dependências.
 
---
+---
 
 ## 👨‍💻 Desenvolvedores
 
-- Eduardo Vaz
 - Caio Sena
+- Eduardo Vaz
+- Enzo Joassis
 - Luiz Silvério
 - Sara Ruth
-- Enzo Joassis
+
